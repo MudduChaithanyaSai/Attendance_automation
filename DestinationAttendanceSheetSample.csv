@@ -1,0 +1,44 @@
+﻿,ML & AI (PE) - A35D8 - ATTENDANCE MONITORING SHEET - 3RD YR-1 SEM (2018 BATCH),,,,,,
+,TOPIC,,,Regression,Classification,Classification,Practicals on R&C
+SNO,NAME,ROLL NO,SEC,25th Aug,26th Aug,27th Aug,DD
+1,A Dinesh Reddy,18211A0401,A,,,,
+2,Aakash,18211A0403,A,,,,
+3,Avula sri balaji,18211A0415,A,,,,
+4,BUDHA ROHINI LAXMI SUCHANDANA,18211A0439,A,,,,
+5,Chandana Sahithi Chavali,18211A0442,A,,,,
+6,C V Vignesh,18211A0444,A,,,,
+7,Abhigna,18211A0445,A,A,A,A,A
+8,J.Naga varshith,19215A0402,A-8,,A,,
+9,Gadiraju Gourav Varma,18211A0465,B,,,,
+10,G.MAHENDER,18211A0482,B,A,A,A,
+11,Hasti.shyam kumar,18211A0491,B,,,,
+12,Dupati. Hemanth Isaac Prabhakar,18211A0492,B,,A,,
+13,Hokanar Dinesh,18211A0493,B,A,A,A,A
+14,Kanumuri Swetha,18211A04A2,B,,,,
+15,K.Bhavana,18211A04A4,B,,,,
+16,Kuntapally adarsh,18211A04B6,B,,A,,
+17,Sapa Venugopal,19215A0408,B,,,,
+18,Retineni sai chandu,19215A0409,B-10,A,A,A,A
+19,Maringanti Harshith,18211A04D8,C,A,A,A,A
+20,M. Saikiran,18211A04E5,C,,,,
+21,CHAITHANYA SAI,18211A04E7,C,,,,
+22,N.saikrishna,18211A04F3,C,,,,
+23,p.c.bhuvaneshwari,18211A04G7,C,,,,
+24,Saikrishnareddy,18211A04H1,C-6,A,A,A,
+25,Raviteja,18211A04K6,D,,,,
+26,SATTI ROHAN REDDY,18211A04K8,D,,,,
+27,SHAIK HALEEMA SADIYA,18211A04L0,D,,,,
+28,Tallam saketh,18211A04M3,D,,,,
+29,Teki Rohit raj,18211A04M5,D,,,,
+30,Shivani thodupunuri,18211A04M8,D,,,,
+31,Thorthi Ruchitha,18211A04M9,D,,,,
+32,U Sai Vineet,18211A04N2,D,,,,
+33,Vadithya Malathi,18211A04N4,D,A,A,A,A
+34,Kavya.V,18211A04N8,D,,,,
+35,Venigalla sai Bharath,18211A04P1,D,,,,
+36,Voleti Baby Jahnavi,18211A04P4,D,,,,
+37,M.Anusha,19215A0421,D-13,A,A,A,A
+,number of Presentees,,,29,26,29,31
+,number of Absentees,,,8,11,8,6
+,Percentage,,,78.38%,70.27%,78.38%,83.78%
+,Absentees,,,"['18211A0445', '18211A0482', '18211A0493', '19215A0409', '18211A04D8', '18211A04H1', '18211A04N4', '19215A0421']","['18211A0445', '19215A0402', '18211A0482', '18211A0492', '18211A0493', '18211A04B6', '19215A0409', '18211A04D8', '18211A04H1', '18211A04N4', '19215A0421']","['18211A0445', '18211A0482', '18211A0493', '19215A0409', '18211A04D8', '18211A04H1', '18211A04N4', '19215A0421']","['18211A0445', '18211A0493', '19215A0409', '18211A04D8', '18211A04N4', '19215A0421']"
